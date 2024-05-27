@@ -10,3 +10,5 @@ A deatailed pdf, introducing you to the project can be found in the files sectio
 A detailed tutorial for Python can be found in the files section of the GitHub repo. Refer to chapters 3, 4, 5, 7, and 9 of the document to learn the basics of Python. If you already know Python, you may use these to review/recall your Python knowledge. 
 
 - [Python Tutorial (PDF)](files/Python Tutorial.pdf)
+
+If you need a YouTube tutorial, [click here](https://youtu.be/kqtD5dpn9C8?si=7rmdAEK_5cN5rQPT).
