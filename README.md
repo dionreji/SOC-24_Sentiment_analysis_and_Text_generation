@@ -7,8 +7,8 @@ Welcome to SOC 2024! Let's do some computational magic with ML and NLP, as we di
 A deatailed pdf, introducing you to the project can be found in the files section of the repo.
 
 ## Week 1
-A detailed tutorial for Python can be found in the files section of the GitHub repo. Refer to chapters 3, 4, 5, 7, and 9 of the document to learn the basics of Python. If you already know Python, you may use these to review/recall your Python knowledge. 
+A detailed tutorial for Python can be found in the files section of the GitHub repo. Refer to chapters 3, 4, 5, 7, and 9 of the document. 
 
-- [Python Tutorial (PDF)](files/Python Tutorial.pdf)
+- [Python Tutorial (PDF)](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Python%20Tutorial.pdf)
 
-If you need a YouTube tutorial, [click here](https://youtu.be/kqtD5dpn9C8?si=7rmdAEK_5cN5rQPT).
+
