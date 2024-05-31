@@ -7,12 +7,12 @@ Welcome to SOC 2024! Let's do some computational magic with ML and NLP, as we di
 A deatailed pdf, introducing you to the project can be found in the files section of the repo.
 
 ## Week 1
-A detailed Assignment pdf for this week can be found [here](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Week_1.pdf). More on assignments later this week.
+All resources for this week (Python, ```numpy```, ```pandas, and Jupyter Notebook tutorials) can be found in [Week 1](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/tree/main/Week%201) folder.
 
-A detailed tutorial for Python can be found in the files section. Refer to chapters 3, 4, 5, 7, and 9 of the document. 
- [Python Tutorial (PDF)](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Python%20Tutorial.pdf)
+Refer to [Week_1.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Week%201/Week_1.pdf) to find the detailed Problem Statement and instructions for the assignment for this week. All files required for the assignment can be found in [Week 1](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/tree/main/Week%201) folder.
 
-A detailed ```numpy``` tutorial can be found in the files sections. Refer to chapter 3 of the document.
-[numpy Tutorial (PDF)](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/numpy%20Tutorial.pdf)
+> Week 1 assignment is due 03/06/2024 (Monday) EOD.
+
+
 
 
