@@ -18,7 +18,7 @@ Refer to [Week_1.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_
 ## Week 2
 The resources required to commence this week's work are available in the [Week 2](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/tree/main/Week%202) folder. 
 
-Refer to [] for detailed instructions and this week's assignments. Additional assignments, which are to be submitted, will be added later in the week.
+Refer to [Week 2.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Week%202/Week%202.pdf) for detailed instructions and this week's assignments. Additional assignments, which are to be submitted, will be added later in the week.
 
 
 
