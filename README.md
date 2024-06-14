@@ -18,7 +18,14 @@ Refer to [Week_1.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_
 ## Week 2
 The resources required to commence this week's work are available in the [Week 2](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/tree/main/Week%202) folder. 
 
-Refer to [Week 2.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Week%202/Week%202.pdf) for detailed instructions and this week's assignments. Additional assignments, which are to be submitted, will be added later in the week.
+Refer to [Week 2.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Week%202/Week%202.pdf) for detailed instructions and this week's assignments. 
 
+---
 
+## Week 3
 
+It's time to start the real adventure. Lets start with pre-processing of data. All resources for this week can be found in [Week 3](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/tree/main/Week%203) folder.
+
+This week you have an assignment to be submitted. Please find the details for the same in [Week_3.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Week%203/Week_3.pdf).
+
+> Deadline for submission of this week's assignment : 19.06.2024 (Wednesday)
