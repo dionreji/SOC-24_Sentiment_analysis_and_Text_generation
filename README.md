@@ -1,4 +1,4 @@
-# SOC-24_Sentiment_analysis_and_Text_generation
+# SOC-24 Sentiment Analysis and Text Generation using LSTMs
 Complete Roadmap to the project "Sentiment Analysis and Text Generation using LSTM" - SOC 2024, IIT Bombay
 
 ## Introduction
@@ -28,4 +28,4 @@ It's time to start the real adventure. Lets start with pre-processing of data. A
 
 This week you have an assignment to be submitted. Please find the details for the same in [Week_3.pdf](https://github.com/dionreji/SOC-24_Sentiment_analysis_and_Text_generation/blob/main/Week%203/Week_3.pdf).
 
-> Deadline for submission of this week's assignment : 19.06.2024 (Wednesday)
+> Deadline for submission of this week's assignment : 19.06.2024 (Wednesday) EOD
